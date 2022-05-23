@@ -9,3 +9,5 @@ git add file name commamand to add a specific file
 git add . to add all files to empty repo
 git status to check status of added files
 git commit -m "write something as ex- this is my first commit" to commit files
+git log command to monitor changes
+git diff command to see changes between last commit and now
