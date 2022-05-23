@@ -1,0 +1,10 @@
+code . to open vs code
+touch commamand to add a new file of any type in the folder ex- touch new.py
+ls command to know how many files are there toatal
+ls -lart command to show how many hidden files are there in the folder of the computer
+git config --global.user.name commamand to set username 
+git config --global.user.email  commamand to check email use only those used on github
+git init commamand to initialze empty github repo
+git add file name commamand to add a specific file
+git add . to add all files to empty repo
+git status to check status of added files 
