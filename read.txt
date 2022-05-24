@@ -13,3 +13,8 @@ git log command to monitor changes
 git diff command to see changes between last commit
 git log -p -1 commamand to check last change 
 touch .gitignore to make a git file to ignore files in this file items to be ignored are added
+
+branching
+git branch to check master and branch (if any)
+git branch f1 to create a branch named f1
+git checkout f1 to switch to f1
